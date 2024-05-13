@@ -1,0 +1,55 @@
+header img{
+    width: 40px;
+    height: 40px;
+}
+header{
+    display:flex;
+    position: fixed;
+    text-decoration: none;
+
+}
+.header {
+    padding-left: 30px;
+    padding-top: 9px;
+    text-decoration: none;
+    color: black;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.pitrnmka{
+    padding-left:500px ;
+}
+header:focus{
+    border: 2px solid orange;
+}
+main img{
+    width: 1000px;
+    height: 450px;
+}
+.q{
+    padding-top: 0px;
+}
+main p{
+    font-size: 25px;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-size: 20;
+}
+footer p, h4{
+    margin: 10px;
+    padding: 10px;
+}
+footer p{
+    color: rgb(111, 110, 110);
+}
+.p{
+    text-align: right;
+    
+}
+footer{
+    display: flex;
+}
